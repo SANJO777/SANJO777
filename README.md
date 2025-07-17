@@ -10,6 +10,8 @@ and if it doesn't…
 …it’s because the problem has **already been solved**. Amen! 🙏🏻
 
 ![](https://komarev.com/ghpvc/?username=SANJO777&color=blueviolet)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/saantiago.rodriguez?igsh=YmZ3NnYwb21qc3Y1)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white)](https://m.youtube.com/@sjrpnocommentary)
 
 ## 🛠️ Skills
 
