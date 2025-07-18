@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/dSBFdQI.png" alt="Header" style="width:100%; max-height:300px;">
+<a href="https://emulatorgames.onl/gba-pokemon-fire-red-version" target="_blank">
+  <img src="https://i.imgur.com/dSBFdQI.png" alt="Header" style="width:100%; max-height:300px;">
+</a>
 
 ## 📌 Bio
 
