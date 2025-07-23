@@ -37,3 +37,7 @@ and if it doesn't…
 <a href="https://m.youtube.com/@sjrpnocommentary" target="_blank">
   <img src="https://i.imgur.com/b83b7yF.jpeg" alt="Canal de YouTube de SANJO" width="480" height="270">
 </a>
+
+## 👀 Click on the images… there might be easter eggs 🥚
+
+![Easter Egg GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBuOTZqOHh1MXUyNm1mczB5NGgwdGMybDMycW4xYzh3MTA4anh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztPDz6vdmh3TqRti4j/giphy.gif)
