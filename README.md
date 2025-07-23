@@ -30,7 +30,7 @@ and if it doesn't…
 
 ## 💼 This is My Portfolio (learning...)
 
-[![Portada](https://i.imgur.com/0CUI2ya.png)](https://sanjo777.github.io/portfolio/)
+[![Portada](https://i.imgur.com/WWNolMj.png)](https://sanjo777.github.io/portfolio/)
 
 ## ▶️ My Gameplay Channel
 
