@@ -40,5 +40,8 @@ and if it doesn't…
 </a>
 
 ## 👀 Click on the images… there might be easter eggs 🥚
-
-![Easter Egg GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBuOTZqOHh1MXUyNm1mczB5NGgwdGMybDMycW4xYzh3MTA4anh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztPDz6vdmh3TqRti4j/giphy.gif)
+<a href="https://sanjo777.github.io/linkhub/" target="_blank">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBuOTZqOHh1MXUyNm1mczB5NGgwdGMybDMycW4xYzh3MTA4anh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztPDz6vdmh3TqRti4j/giphy.gif" 
+       alt="Link to my LinkHub" 
+       style="max-width: 100%; height: auto; border-radius: 12px;">
+</a>
