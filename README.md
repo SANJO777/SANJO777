@@ -16,6 +16,7 @@ and if it doesn't…
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-rodríguez-0b7476375)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/saantiago.rodriguez?igsh=YmZ3NnYwb21qc3Y1)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white)](https://m.youtube.com/@sjrpnocommentary)
+[![Linkhub](https://img.shields.io/badge/Linkhub-%231a0b24?logo=githubpages&logoColor=white)](https://sanjo777.github.io/linkhub/)
 
 ## 🛠️ Skills
 
